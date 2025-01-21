@@ -1,7 +1,9 @@
+/***
+ * Remove duplicate items from an array
+ */
 
 
 // ekta array te eki data ekadikbar thakle just ekta kore rakte hobe, jodi eki data onkbaro thake bad pore jabe,ortat eki rkm data shudo 1ta thakte parbe.
-
 function noDuplicate(array1){
 console.log(array1)
     let arr_withoutDuplicate = [];

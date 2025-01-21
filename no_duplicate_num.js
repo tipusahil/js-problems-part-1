@@ -1,3 +1,9 @@
+/***
+ * Remove duplicate items from an array
+ */
+
+
+
 // ekta array te eki number ekadikbar thakle just ekta kore rakte hobe, jodi eki number onkbaro thake bad pore jabe,ortat eki rkm data shudo 1ta thakte parbe.
 
 function noDuplicate(arrayN) {
